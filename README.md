@@ -1,4 +1,4 @@
-# CSV-CommaRemoveer
+# CSV-CommaRemover
 CSV 파일 숫자부분에 콤마(,)구분기호를 없애줍니다.<br>
 ![콤마 에러](https://user-images.githubusercontent.com/117326245/200745425-72e891d9-e191-4b1a-a304-c6bba4c3fc21.png)
 <br>
